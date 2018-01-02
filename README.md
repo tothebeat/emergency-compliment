@@ -32,7 +32,8 @@ There's a neat website called [glitch.com](https://glitch.com/) where you can wr
 1. Clicking the `Grant Access` link will take you to an authorization page on Github, telling you what information about your Github profile it will let glitch.com access. This is just enough for glitch.com to be able to Import and Export projects, at your express permission.
 1. When you're back in your basic project on Glitch, again click on your project name in the top-left corner, then click on `Advanced Options`, and then `Import from Github`.
 1. Glitch will ask for the Github username (yours) and repo name that you want to import from. If your Github username is `tothebeat`, then on this Glitch prompt you should enter `tothebeat/emergency-compliment`.
-1. With this code now in the Glitch editor, click on the `Show` / `Live` button at the top to get a new tab with your live site.
+1. With this code now in the Glitch editor, click and select the `server.js` file in the left / file selection pane.
+1. Click on the `Show` / `Live` button at the top to get a new tab with your live site.
 
 ## Contribute
 
